@@ -1,3 +1,21 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,700&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+/* font-family: 'Mulish', sans-serif; */
+
+
+.title{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+body{
+  font-family: 'Mulish', sans-serif; 
+}
